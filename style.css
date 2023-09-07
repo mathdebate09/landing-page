@@ -1,0 +1,27 @@
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.header {
+    display: flex;
+    flex-direction:row;
+    gap: 600px;
+}
+
+.top-head{
+    display:flex;
+    justify-content: space-around;
+    
+}
+
+.bottom-head{
+    display:flex;
+    justify-content: space-around;
+}
+
+
+
