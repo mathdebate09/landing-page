@@ -1,27 +1,49 @@
 body{
     display:flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     
-}
-
-.header {
-    display: flex;
-    flex-direction:row;
-    gap: 600px;
+    align-items: center; 
+    
 }
 
 .top-head{
     display:flex;
-    justify-content: space-around;
-    
+    justify-content: space-evenly;
+    gap:870px;
+    align-items:center;
+    flex:1;
+    padding-bottom: 80px;
 }
 
 .bottom-head{
     display:flex;
-    justify-content: space-around;
+    justify-content:center;
+    max-width:1100px;
+    font-family:'Hero', 'Secondary', Text ;
+    font-size: 28px;
+    gap:8px;
+    align-items:center;
+    padding-bottom: 80px;
 }
+
+.head{
+    font-family:'Hero', 'Main', Text;
+    font-size: 48px; 
+}
+
+.head-albums {
+    margin-bottom: 32px;
+  }
+  
+  .super-card {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+  }
+  
+  .card {
+    max-width: 200px;
+  }
 
 
 
