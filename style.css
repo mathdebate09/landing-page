@@ -98,7 +98,8 @@ a {
     padding-bottom: 20px;
 }
 .card {
-    max-width: 200px;;
+    max-width: 200px;
+    text-align:center;
 }
 
 /* QUOTE-TEXT */
