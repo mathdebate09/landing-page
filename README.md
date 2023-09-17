@@ -1,4 +1,4 @@
-# 🙋Landing-page
+## 🙋Landing-page
 A basic landing page using HTML+CSS(FlexBox)
 [[landing-page-website]](https://mathdebate09.github.io/landing-page/)
 
